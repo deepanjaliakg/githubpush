@@ -8,3 +8,4 @@ d = {
 db1 = client['mongotest']
 coll = db1['test']
 coll. insert_one(d)
+l=[1,2,3]
